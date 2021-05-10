@@ -1,1 +1,1 @@
-https://yan-xv.github.io/rsschool-cv/cv
+https://yan-xv.github.io/rsschool-cv/cv.md
