@@ -2,7 +2,7 @@
 ---
 ### Contact info:
 * Skype: yan_bel
-* email: yanxv.by@gmail.by
+* email: yanxv.by@gmail.com
 
 ### Skills:
 * C++
